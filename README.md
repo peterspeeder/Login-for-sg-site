@@ -6,9 +6,7 @@ This is a minimal login page built with PHP, designed to be run on a local XAMPP
 - **XAMPP** (for running the Apache server and MySQL database)
 - **PHP** (for backend logic)
 
-### Features
-- User login system with basic authentication.
-- Clean and lightweight structure for easy integration.
+
 
 ### Setup Instructions
 1. Install XAMPP and start Apache and MySQL services.
